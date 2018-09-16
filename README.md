@@ -23,9 +23,9 @@ What is Markov chain?
 •	It is assumed that future states depend only on the current state, not on the events that occurred before it
 •	In the fields of predictive modelling and probabilistic forecasting, it is desirable for a given model to exhibit the Markov property.
 ## What is Markov Property?
-•	Markov property refers to the memoryless property of a stochastic process
-•	Hidden Markov model
-o	A hidden Markov model is a Markov chain for which the state is only partially observable. 
+####	Markov property refers to the memoryless property of a stochastic process
+#### Hidden Markov model
+#### A hidden Markov model is a Markov chain for which the state is only partially observable. 
 o	In other words, observations are related to the state of the system, but they are typically insufficient to precisely determine the state. Several well-known algorithms for hidden Markov models exist.
 	Viterbi algorithm
 	Forward algorithm

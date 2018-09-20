@@ -10,10 +10,10 @@ In other words, there’s a specific type of model that produces the data (a Mar
 
 You basically use your knowledge of Markov Models to make an educated guess about the model’s structure.
 ## Hidden Markov models:
-•	The Hidden Markov Model (HMM) is a relatively simple way to model sequential data. 
-•	A hidden Markov model implies that the Markov Model underlying the data is hidden or unknown to you. 
-•	More specifically, you only know observational data and not information about the states. 
-•	In other words, there’s a specific type of model that produces the data (a Markov Model) but you don’t know what processes are producing it. 
+##### The Hidden Markov Model (HMM) is a relatively simple way to model sequential data. 
+##### 	A hidden Markov model implies that the Markov Model underlying the data is hidden or unknown to you. 
+##### More specifically, you only know observational data and not information about the states. 
+##### 	In other words, there’s a specific type of model that produces the data (a Markov Model) but you don’t know what processes are producing it. 
 •	You basically use your knowledge of Markov Models to make an educated guess about the model’s structure.
 What is Markov chain?
 •	A Markov chain is "a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event"

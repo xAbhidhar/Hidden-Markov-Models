@@ -43,13 +43,13 @@ Forward algorithm
 Baum–Welch algorithm
 #### 	Use?
 #	One common use is for speech recognition, where the observed data is the speech audio waveform and the hidden state is the spoken text. In this example, the Viterbi algorithm finds the most likely sequence of spoken words given the speech audio.
-•	Markov decision process
-o	A Markov decision process is a Markov chain in which state transitions depend on the current state and an action vector that is applied to the system. 
-o	Typically, a Markov decision process is used to compute a policy of actions that will maximize some utility with respect to expected rewards. 
-o	It is closely related to reinforcement learning, and can be solved with value iteration and related methods
-•	Partially observable Markov decision process
-o	A partially observable Markov decision process (POMDP) is a Markov decision process in which the state of the system is only partially observed. 
-o	POMDPs are known to be NP complete, but recent approximation techniques have made them useful for a variety of applications, such as controlling simple agents or robots
+ Markov decision process
+ A Markov decision process is a Markov chain in which state transitions depend on the current state and an action vector that is applied to the system. 
+ Typically, a Markov decision process is used to compute a policy of actions that will maximize some utility with respect to expected rewards. 
+ It is closely related to reinforcement learning, and can be solved with value iteration and related methods
+ Partially observable Markov decision process
+ A partially observable Markov decision process (POMDP) is a Markov decision process in which the state of the system is only partially observed. 
+ POMDPs are known to be NP complete, but recent approximation techniques have made them useful for a variety of applications, such as controlling simple agents or robots
 
 
 Hidden Markov Models vs Simpler Markov Models (ex Markov chain)

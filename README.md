@@ -42,7 +42,7 @@ Viterbi algorithm
 Forward algorithm
 Baum–Welch algorithm
 #### 	Use?
-#	One common use is for speech recognition, where the observed data is the speech audio waveform and the hidden state is the spoken text. In this example, the Viterbi algorithm finds the most likely sequence of spoken words given the speech audio.
+####	One common use is for speech recognition, where the observed data is the speech audio waveform and the hidden state is the spoken text. In this example, the Viterbi algorithm finds the most likely sequence of spoken words given the speech audio.
  Markov decision process
  A Markov decision process is a Markov chain in which state transitions depend on the current state and an action vector that is applied to the system. 
  Typically, a Markov decision process is used to compute a policy of actions that will maximize some utility with respect to expected rewards. 

@@ -38,9 +38,9 @@ In the fields of predictive modelling and probabilistic forecasting, it is desir
 #### Hidden Markov model
 #### A hidden Markov model is a Markov chain for which the state is only partially observable. 
 o	In other words, observations are related to the state of the system, but they are typically insufficient to precisely determine the state. Several well-known algorithms for hidden Markov models exist.
-Viterbi algorithm
-Forward algorithm
-Baum–Welch algorithm
+- Viterbi algorithm
+- Forward algorithm
+- Baum–Welch algorithm
 #### 	Use?
 ####	One common use is for speech recognition, where the observed data is the speech audio waveform and the hidden state is the spoken text. In this example, the Viterbi algorithm finds the most likely sequence of spoken words given the speech audio.
  Markov decision process
